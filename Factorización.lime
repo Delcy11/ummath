@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+          <recursos>$C:\Users\ESTUDIANTE\Documents\edilim564\</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+          <corfondo>ffffff</corfondo>
+        <corbanda>BFBFFF</corbanda>
+        <cornavega>CCCCFF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>MATEMÁTICAS</titulo>
+          <subtitulo>Factorización</subtitulo>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="\" modo="1" >CORRECTO</correcto>
+        <incorrecto son="\" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="48" posy="116">..\edilim564\1.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="50" posy="75">..\edilim564\2.jpg</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="29">..\edilim564\1.jpg</imaxe>
+        </paxina>
+    </libro>
+</lim>
